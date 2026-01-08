@@ -5,7 +5,7 @@
 }
 header {
   background-color: #fff8f3;
-  background-image: url(images/developer.png), url(images/header_bg.png);
+  background-image: url(../images/developer.png), url(../images/header_bg.png);
   background-position: 23px 38px, bottom right;
   background-repeat: no-repeat;
 }
